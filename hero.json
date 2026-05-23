@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "image": "https://placehold.co/1920x1080/1e1e1e/333333?text=test1"
+  },
+  {
+    "id": 2,
+    "image": "https://placehold.co/1920x1080/1e1e1e/333333?text=test2"
+  },
+  {
+    "id": 3,
+    "image": "https://placehold.co/1920x1080/1e1e1e/333333?text=test3"
+  }
+]
