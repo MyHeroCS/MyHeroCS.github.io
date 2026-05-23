@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://github.com/MyHeroCS/MyHeroCS.github.io/blob/main/Slide%201.png"
+    "image": "./slide1.png"
   },
   {
     "id": 2,
