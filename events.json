@@ -1,2 +1,18 @@
 [
+  {
+    "id": 1,
+    "title": "Risky's Prelims",
+    "date": "Saturday, June 6 and Sunday, June 7",
+    "image": "https://cdn.discordapp.com/attachments/1511035952125055046/1511037857219870913/risky_image.png?ex=6a1eff2a&is=6a1dadaa&hm=3f65103a279357fd30db50328245f853a7fced7365bf1dc66f75addb1dca34d7",
+    "region": "NA",
+    "link": "https://discord.gg/MCYyQpNDKN"
+  },
+  {
+    "id": 2,
+    "title": "Toneri's Prelims",
+    "date": "Wednesday, June 3 and Friday, June 5",
+    "image": "https://cdn.discordapp.com/attachments/1511035952125055046/1511038939794903250/TONERIS_IMAGE.png?ex=6a1f002c&is=6a1daeac&hm=e94643eb6c590006ea4a571083314656032e5100b6815390664b19646832374e",
+    "region": "EU",
+    "link": "https://discord.gg/S4SqJzgK9g"
+  }
 ]
