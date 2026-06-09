@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Risky's Prelims",
     "date": "Saturday, June 13 and Sunday, June 14",
-    "image": "https://cdn.discordapp.com/attachments/1511035952125055046/1511037857219870913/risky_image.png?ex=6a1eff2a&is=6a1dadaa&hm=3f65103a279357fd30db50328245f853a7fced7365bf1dc66f75addb1dca34d7",
+    "image": "./risky_image.png",
     "region": "NA",
     "link": "https://discord.gg/MCYyQpNDKN"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "Oasis Prelims",
     "date": "Sunday, June 14",
-    "image": "https://cdn.discordapp.com/attachments/1511035952125055046/1513337777524178984/oasis_image.png?ex=6a275d22&is=6a260ba2&hm=3164c629f033ba8bf4282cc2adb1d4f15e343d48a9199b67b452964699e8649e",
+    "image": "./oasis_image.png",
     "region": "EU",
     "link": "https://discord.gg/FqK5vHZbJp"
   }
