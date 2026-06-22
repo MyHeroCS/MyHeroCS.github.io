@@ -1,26 +1,18 @@
 [
   {
     "id": 1,
-    "title": "Kaiju Prelims",
-    "date": "Thursday, June 18",
-    "image": "./kaiju_image.png",
-    "region": "NA",
-    "link": "https://discord.gg/32PQnhYS5C"
-  },
-  {
-    "id": 2,
-    "title": "Zenith Prelims",
-    "date": "Friday, June 19",
-    "image": "./zenith_image.png",
-    "region": "EU",
-    "link": "https://discord.gg/Q5tcfEn47J"
-  },
-  {
-    "id": 3,
     "title": "Cursed Crusade Prelims",
     "date": "Saturday, June 27 and Sunday, June 28",
     "image": "./cursed_image.png",
     "region": "NA",
     "link": "https://discord.gg/DZ8u3Thyrw"
+  },
+  {
+    "id": 2,
+    "title": "Kaiju Prelims",
+    "date": "Wednesday, June 24",
+    "image": "./kaiju_image.png",
+    "region": "EU",
+    "link": "https://discord.gg/32PQnhYS5C"
   }
 ]
