@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "title": "Cursed Crusade Prelims",
-    "date": "Saturday, June 27 and Sunday, June 28",
-    "image": "./cursed_image.png",
+    "title": "Atrolity's Prelims",
+    "date": "Sunday, July 5th",
+    "image": "./atrolity_image.png",
     "region": "NA",
-    "link": "https://discord.gg/DZ8u3Thyrw"
+    "link": "https://discord.gg/VF5ujgXNtF"
   },
   {
     "id": 2,
-    "title": "Kaiju Prelims",
-    "date": "Wednesday, June 24",
-    "image": "./kaiju_image.png",
+    "title": "Toneri's Prelims",
+    "date": "Friday, July 3rd",
+    "image": "./toneri_image.png",
     "region": "EU",
-    "link": "https://discord.gg/32PQnhYS5C"
+    "link": "https://discord.gg/S4SqJzgK9g"
   }
 ]
