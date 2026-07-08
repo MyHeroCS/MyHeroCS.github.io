@@ -1,18 +1,18 @@
 [
   {
     "id": 1,
-    "title": "Atrolity's Prelims",
-    "date": "Sunday, July 5th",
-    "image": "./atrolity_image.png",
+    "title": "MHCS Prelims",
+    "date": "Sunday, July 12",
+    "image": "./sitediscordimage.png",
     "region": "NA",
-    "link": "https://discord.gg/VF5ujgXNtF"
+    "link": "https://discord.gg/daF3nrYua6"
   },
   {
     "id": 2,
-    "title": "Toneri's Prelims",
-    "date": "Friday, July 3rd",
-    "image": "./toneri_image.png",
+    "title": "Š乂INOBIS's Prelims",
+    "date": "Saturday, July 11",
+    "image": "./shinobis_image.png",
     "region": "EU",
-    "link": "https://discord.gg/S4SqJzgK9g"
+    "link": "https://discord.gg/GHEEYzuZaR"
   }
 ]
