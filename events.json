@@ -1,18 +1,10 @@
 [
   {
     "id": 1,
-    "title": "MHCS Prelims",
-    "date": "Sunday, July 12",
-    "image": "./sitediscordimage.png",
-    "region": "NA",
-    "link": "https://discord.gg/daF3nrYua6"
-  },
-  {
-    "id": 2,
-    "title": "Š乂INOBIS's Prelims",
-    "date": "Saturday, July 11",
-    "image": "./shinobis_image.png",
+    "title": "Oasis Prelims",
+    "date": "Sunday, July 19",
+    "image": "./oasis_image.png",
     "region": "EU",
-    "link": "https://discord.gg/GHEEYzuZaR"
+    "link": "https://discord.gg/daF3nrYua6"
   }
 ]
