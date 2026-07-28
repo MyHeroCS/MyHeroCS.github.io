@@ -1,1 +1,26 @@
-
+[
+  {
+    "id": 1,
+    "title": "Dreamers Prelims",
+    "date": "Saturday, August 1",
+    "image": "./dreamers_image.png",
+    "region": "NA",
+    "link": "https://discord.gg/7YHdKGyFEw"
+  },
+  {
+    "id": 2,
+    "title": "Genesis Prelims",
+    "date": "Sunday, August 2",
+    "image": "./genesis_image.png",
+    "region": "EU",
+    "link": "https://discord.gg/HAZcDy8VNE"
+  },
+  {
+    "id": 3,
+    "title": "Goodwill Prelims",
+    "date": "Friday, August 7",
+    "image": "./goodwill_image.png",
+    "region": "NA",
+    "link": "https://discord.gg/daF3nrYua6"
+  }
+]
