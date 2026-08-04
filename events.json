@@ -6,5 +6,21 @@
     "image": "./goodwill_image.png",
     "region": "NA",
     "link": "https://discord.gg/YXRtaGqC65"
+  },
+  {
+    "id": 2,
+    "title": "RazorClappy's Prelims",
+    "date": "Saturday, August 8",
+    "image": "./razor_image.png",
+    "region": "NA",
+    "link": "https://discord.gg/caF4NUKjRx"
+  },
+  {
+    "id": 3,
+    "title": "RazorClappy's Prelims",
+    "date": "Sunday, August 9",
+    "image": "./razor_image.png",
+    "region": "EU",
+    "link": "https://discord.gg/caF4NUKjRx"
   }
 ]
