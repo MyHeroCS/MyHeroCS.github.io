@@ -191,6 +191,30 @@
         "4chan",
         "Kata"
       ]
+    },
+    {
+      "name": "Blank",
+      "members": [
+        "Shiro",
+        "Raf",
+        "ame"
+      ]
+    },
+    {
+      "name": "Tungtungcitos",
+      "members": [
+        "ROKOTE",
+        "KING",
+        "Luminth"
+      ]
+    },
+    {
+      "name": "Viltrum",
+      "members": [
+        "Spooky",
+        "Cursed",
+        "FunnyValentine"
+      ]
     }
   ],
   "EU": [
@@ -304,6 +328,54 @@
         "Tengen",
         "Armin",
         "Akame"
+      ]
+    },
+    {
+      "name": "Team Azoz",
+      "members": [
+        "Azoz",
+        "Fr3on",
+        "Glitch00c"
+      ]
+    },
+    {
+      "name": "Maghreb United",
+      "members": [
+        "Yazo",
+        "Amir",
+        "Hydra"
+      ]
+    },
+    {
+      "name": "Shemsu",
+      "members": [
+        "Kumo",
+        "Cez",
+        "Radan"
+      ]
+    },
+    {
+      "name": "Krozzz",
+      "members": [
+        "Krozzz",
+        "Okami",
+        "Hinata"
+      ]
+    },
+    {
+      "name": "Legends League",
+      "members": [
+        "EX Shiggy",
+        "Shisui",
+        "Night"
+      ]
+    },
+    {
+      "name": "Baba Tung",
+      "members": [
+        "Whoisroxis",
+        "mwp",
+        "Shinigi"
       ]
     }
   ]
